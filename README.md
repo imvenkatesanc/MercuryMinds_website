@@ -13,7 +13,7 @@ Welcome to the MercuryMinds E-Commerce website! This repository contains the sou
 - [Other Links](#other-links)
 
 ## Logo
-![Logo](logo-1.png)
+![Logo](cropped-logo-1.png)
 
 ## Introduction
 MercuryMinds is a leading digital commerce agency that offers comprehensive e-commerce solutions to companies in various industries. We have a strong reputation for providing consultancy and delivery services to startups, retailers, corporations, manufacturers, B2C and B2B marketplaces, and distributors.
